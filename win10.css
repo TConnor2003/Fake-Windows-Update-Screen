@@ -27,6 +27,13 @@ body {
     background-color: red;
 }
 
+.crash {
+    width: 40%;
+    margin: 0 auto;
+    text-decoration: none;
+    margin-left: 10%;
+}
+
 
 @keyframes bgg {
     0% {
@@ -141,4 +148,9 @@ body {
         transform: rotate(945deg);
         opacity: 0;
     }
+}
+
+.errorcode {
+    padding-left: 100px;
+    position: relative;
 }
